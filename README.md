@@ -39,10 +39,11 @@ Me haluamme tehdä työelämästä monimuotoista, joten koodin saavutettavuus ja
 
 ## Tehtävä – Backend
 
-Löydät `jobs.json` -tiedostosta löydät vinon pinon työpaikkailmotusdataa (1000 kpl jos ihan tarkkoja ollaan). Tee näistä API. Rajapintaa käyttää nettisivu, joka listaa ja filtteröi avoimia työpaikkailmoituksia, sekä näyttää ilmoitusten tietoja.
+Löydät `jobs.json` -tiedostosta löydät vinon pinon työpaikkailmotusdataa (1000 kpl jos ihan tarkkoja ollaan). Tee näistä API. Rajapintaa käyttää ensisijaisesti nettisivu, joka listaa ja filtteröi avoimia työpaikkailmoituksia, sekä näyttää ilmoitusten tietoja.
 
 Voit hyödyntää vapaasti valitsemaasi koodikieltä ja apukirjastoja. Jos kaipaat instpiraatiota stäkin valintaan, meillä käytetään sekä Pythonia Djangon kera että Gota.
 
+Sinun ei tarvitse luoda tuotantolaatuista palvelinta. Tee kuitenkin jonkunlainen kyselyitä vastaanottava palvelu, löydät pari esimerkkiä `backend_samples` -kansiosta.
 
 ### Ominaisuuksia
 
