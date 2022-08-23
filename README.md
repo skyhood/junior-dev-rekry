@@ -122,3 +122,8 @@ Tadaa, valmista! Voit palauttaa tehtävän haluamallasi tavalla. Itse käytämme
 1. *Älä forkkaa tätä repositoryä tai tee pull requestia suoraan tänne!* Muutoin työsi näkyy julkisesti kaikille, ja olisi ikävää jos kanssahakijasi kopioisi työtäsi.
 2. *Jos hyödynnät GitHubia tai vastaavaa, älä tee repositorystäsi julkista* samasta syystä kuin yllä
 3. Toimitathan työsi mukana mahdollisimman selkeät ohjeet miten pystymme tuotostasi kokeilemaan. Meillä ei valitettavasti ole aikaa ratkoa bugeja koodistasi :)
+
+
+## Kysymyksiä?
+
+Heräsikö jotain kysyttävää ennakkotehtävästä tai työnhakuprosessista ylipäänsä? Kerron mielelläni lisää! Tavoitat minut parhaiten sähköpostilla osoitteesta [petri@duunitori.fi](mailto:petri@duunitori.fi) tai puhelimella numerosta [+358 440 422 294](tel:+358440422294).
