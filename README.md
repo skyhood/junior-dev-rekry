@@ -2,9 +2,9 @@
 
 Moikka! Kiitos vielä hakemuksestasi ja onnea! Olemme valinneet sinut Junior Software Developer -rekrytointiprosessin seuraavaan vaiheeseen. Alta löydät ennakkotehtävän, jonka avulla selvitämme paremmin, sovimmeko yhteen. Aloitetaan yleisen tason infolla.
 
-Voit valita vahvuuksiesi pohjalta haluatko tehdä frontend- *vai* backend-tehtävän. Valitse toinen tehtävistä, *molempia ei siis ole tarkoitus tehdä!*
+Voit valita vahvuuksiesi pohjalta haluatko tehdä frontend- **vai** backend-tehtävän. Valitse toinen tehtävistä, **molempia ei siis ole tarkoitus tehdä!**
 
-Olemme suunnitelleet tehtävän kestämään *2–5 tuntia*, emmemekä odota, että käytät tähän aikaa sen enempää.
+Olemme suunnitelleet tehtävän kestämään **2–5 tuntia**, emmemekä odota, että käytät tähän aikaa sen enempää.
 
 Emme odota sinun olevan valmis ammattilainen, eikä koodisikaan tarvitse olla täydellistä (eihän se koskaan ole). Etsimme kuitenkin tyyppiä, joka pystyy jo sopivasti tuettuna tekemään itsenäistä työtä. Tätä pyrimme tehtävällä tunnistamaan. Arviointikriteereistä voit lukea lisää tehtäväkuvausten alta.
 
@@ -120,8 +120,8 @@ JSON-tiedosto näyttää tältä
 
 Tadaa, valmista! Voit palauttaa tehtävän haluamallasi tavalla. Itse käytämme GitHubia, ja uusi yksityinen repository on oikein toimiva tapa toimittaa valmis lopputulos. Huomioithan kuitenkin muutaman asian.
 
-1. *Älä forkkaa tätä repositoryä tai tee pull requestia suoraan tänne!* Muutoin työsi näkyy julkisesti kaikille, ja olisi ikävää, jos kanssahakija kopioisi työtäsi.
-2. *Jos hyödynnät GitHubia tai vastaavaa, älä tee repositorystasi julkista* samasta syystä.
+1. **Älä forkkaa tätä repositoryä tai tee pull requestia suoraan tänne!** Muutoin työsi näkyy julkisesti kaikille, ja olisi ikävää, jos kanssahakija kopioisi työtäsi.
+2. **Jos hyödynnät GitHubia tai vastaavaa, älä tee repositorystasi julkista** samasta syystä.
 3. Toimitathan työsi mukana mahdollisimman selkeät ohjeet, joiden avulla pystymme kokeilemaan tuotostasi. Meillä ei valitettavasti ole aikaa ratkoa bugeja koodistasi :)
 
 
