@@ -74,7 +74,7 @@ Yleiset arviointikriteerit löydät seuraavasta osiosta, tässä tämän tehtäv
 Kiinnitä tässä tehtävässä erityistä huomiota koodin tehokkuuteen. Huomioithan myös käyttötarkoituksen – tarvitseeko nettisaitti kerralla 1 000 työpaikkaa kaikkine tietoineen? Meillä, kuten myös tässä tehtävässä, on valtavasti dataa. Kaikki eivät kuitenkaan etsi töitä uusimmilla vempeleillä ja nopeimmilla nettiyhteyksillä, ja tämän pyrimme huomioimaan sivustomme kehityksessä.
 
 
-## Arviointikriteerit
+## Yleiset arviointikriteerit
 
 Pyrimme selkeyteen ja ymmärrettävyyteen arvioinnissamme. Tehtäväkohtaisten kuvausten lisäksi kiinnitämme erityistä huomiota seuraaviin asioihin:
 
@@ -98,19 +98,17 @@ JSON-tiedosto näyttää tältä
 {
   "jobs": [
     {
-      "heading": string
-      "date_posted": string
-      "slug": string
-      "municipality_name": string
-      "export_image_url": string
-      "company_name": string
-      "descr": string
-      "latitude": int
-      "longitude": int
+      "id": int // Työpaikkailmoituksen id
+      "heading": string // Otsikko
+      "date_posted": timestamp // Alkamisaika
+      "date_ends": timestamp // Päättymisaika
+      "municipality_name": string // Sijainti
+      "company_name": string // Yritys
+      "descr": string // Ilmoitusteksti
       "salary": {
-        "type": int
-        "min": int
-        "max": int
+        "value_period": string // Palkkajakso (kk- vai tuntipalkka)
+        "value_min": int // Palkka vähintään
+        "value_max": int // Palkka enintään
       }
     }, ...
   ]
