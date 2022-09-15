@@ -107,8 +107,8 @@ JSON-tiedosto näyttää tältä
       "descr": string // Ilmoitusteksti
       "salary": {
         "value_period": string // Palkkajakso (kk- vai tuntipalkka)
-        "value_min": int // Palkka vähintään
-        "value_max": int // Palkka enintään
+        "low_value": int // Palkka vähintään
+        "high_value": int // Palkka enintään
       }
     }, ...
   ]
